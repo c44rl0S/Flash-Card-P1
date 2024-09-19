@@ -19,5 +19,35 @@ criaCartao(
 criaCartao(
     'Animais',
     'Por que a galinha atravessou a rua?',
-    'Pra chegar ao outro lado'
+    'Pra chegar ao outro lado'    
+)
+
+criaCartao(
+    'Geografia',
+    'Qual é o maior país do mundo?',
+    'Rússia'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual é o rio mais longo do mundo?',
+    'O Rio Nilo'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual é o país mais populoso da África?',
+    'Nigéria'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual é a capital da Austrália?',
+    'Canberra'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual é o maior deserto o mundo?',
+    'Deserto do Saara'
 )
